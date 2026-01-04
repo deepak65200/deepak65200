@@ -1,91 +1,25 @@
-# Hi 👋 I'm Deepak Kumar Singh
+Hi, I’m Deepak Kumar Singh 👋  
 
-### Senior Mobile Application Developer | Flutter & Android | Payments | Firebase | Play Store & App Store
+I’m a Senior Mobile Application Developer with over 4 years of hands-on experience in building Flutter and Android applications. Most of my work has been in real production environments, where apps are used daily by real users and businesses.
 
-I am a Senior Mobile Application Developer with **4+ years of professional experience** in designing, developing, and deploying **scalable Flutter and Android applications**. I have successfully delivered **20+ production-ready mobile apps** live on **Google Play Store and Apple App Store**, working across multiple domains including education, healthcare, HRMS, travel, hospitality, and enterprise solutions.
+Over the years, I’ve worked on more than 20 mobile applications that are live on the Google Play Store and Apple App Store. These apps span multiple domains such as education, healthcare, HRMS, travel, hospitality, and enterprise solutions.
 
----
+My day-to-day work mainly involves Flutter (Android & iOS) and native Android development using Kotlin and Java. I focus a lot on clean architecture, maintainable code, and performance, especially for apps that scale to thousands of users.
 
-## 🚀 What I Do
+I have strong experience integrating REST APIs, Firebase services, real-time features like chat and notifications, and secure payment gateways including Stripe, Razorpay, DPO, MTN Mobile Money, and Orange Money. I’ve also handled full app deployments, store releases, and post-production support.
 
-- Build **high-performance Flutter & Android applications** (Android & iOS)
-- Design apps using **clean architecture (MVVM, MVC, MVP)**
-- Implement **secure payment gateways** and real-time features
-- Develop **enterprise-grade and startup-ready mobile solutions**
-- Manage **complete mobile app lifecycle** from development to deployment
+Currently, I work as a Lead Mobile Application Developer at Alobha Technologies Pvt. Ltd., where I contribute across the full mobile app lifecycle—from requirements and development to release and maintenance.
 
----
+I enjoy building practical solutions, learning new things, and improving code quality over time.
 
-## 💼 Professional Experience
-
-**Lead Mobile Application Developer**  
-📍 Alobha Technologies Pvt. Ltd., Noida, India  
-
-- Developed and maintained **20+ production mobile applications**
-- Worked on **Flutter (Android & iOS)** and **Native Android (Kotlin, Java)**
-- Integrated payment gateways: **Stripe, Razorpay, DPO, MTN Mobile Money, Orange Money**
-- Built real-time features: **chat, booking systems, notifications**
-- Deployed and managed apps on **Play Store & App Store**
-- Optimized performance, UI responsiveness, and app stability
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### Mobile Development
+Tech I work with:
 - Flutter (Android & iOS)
 - Android (Kotlin, Java)
 - Dart
+- MVVM, Provider, GetX
+- REST APIs, Firebase
+- Payment integrations
+- Play Store & App Store deployment
 
-### Architecture & State Management
-- MVVM, MVC, MVP
-- Provider, GetX
-
-### Backend & Services
-- REST APIs
-- Firebase (Auth, Firestore, Notifications)
-- Real-time Applications
-
-### Payments
-- Stripe
-- Razorpay
-- DPO
-- MTN Mobile Money
-- Orange Money
-
-### Tools & Deployment
-- Git & GitHub
-- Play Store Deployment
-- App Store Deployment
-- Android Studio, VS Code
-
----
-
-## 📱 Featured Project Domains
-
-- 🎓 Education & E-learning Platforms
-- 🏥 Healthcare & Medical Applications
-- 🏢 HRMS & Enterprise Systems
-- 🚌 Travel, Booking & Hospitality Apps
-- 🔐 Enterprise Device Management (MDM)
-
----
-
-## 📈 Career Highlights
-
-- 🚀 Delivered **20+ apps** used by real users
-- 💳 Implemented **multiple secure payment systems**
-- ⚙️ Built **enterprise-grade Android MDM solutions**
-- 🏆 Awarded **Gold Medal** for Bluetooth Project
-- 📦 Experience across **multiple international clients**
-
----
-
-## 🔗 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/deepak-singh-a53a7b1b3
-- 📧 Email: deepaksingh.65200@gmail.com
-
----
-
-⭐ *Always learning, always building, always improving.*
+You can connect with me here:
+- LinkedIn: https://linkedin.com/in/deepak-singh-a53a7b1b3
