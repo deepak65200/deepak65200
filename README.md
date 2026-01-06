@@ -22,4 +22,4 @@ Tech I work with:
 - Play Store & App Store deployment
 
 You can connect with me here:
-- LinkedIn: https://linkedin.com/in/deepak-singh-a53a7b1b3
+- LinkedIn: https://www.linkedin.com/in/deepak65200/
