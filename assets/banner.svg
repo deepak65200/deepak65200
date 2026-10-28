@@ -1,1 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Deepak Kumar Singh, Tech Lead Mobility, Flutter and Android engineer. 6+ years, 20+ apps, 6 payment gateways.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#091729"/>
+      <stop offset="1" stop-color="#10294A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#F26B1D" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#F26B1D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF8A4C"/>
+      <stop offset="1" stop-color="#F26B1D"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#132E54"/>
+      <stop offset="1" stop-color="#0C2140"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F26B1D"/>
+      <stop offset="0.25" stop-color="#2B4468"/>
+      <stop offset="1" stop-color="#2B4468" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#8FA3BC" fill-opacity="0.22"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.9"/>
+      <stop offset="0.6" stop-color="#fff" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="dotmask"><rect width="1200" height="320" fill="url(#fade)"/></mask>
+  </defs>
 
+  <style>
+    .float-a { animation: fa 7s ease-in-out infinite; }
+    .float-b { animation: fb 7s ease-in-out infinite; }
+    @keyframes fa { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+    @keyframes fb { 0%,100% { transform: translateY(0); } 50% { transform: translateY(6px); } }
+    @media (prefers-reduced-motion: reduce) { .float-a, .float-b { animation: none; } }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#dots)" mask="url(#dotmask)"/>
+  <circle cx="960" cy="170" r="300" fill="url(#glow)"/>
+  <circle cx="1120" cy="40" r="220" fill="url(#glow2)"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="15.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.10"/>
+
+  <!-- Text block -->
+  <rect x="72" y="62" width="10" height="10" rx="2" fill="#F26B1D"/>
+  <text x="94" y="72" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#F4A877" letter-spacing="4">TECH LEAD · MOBILITY</text>
+
+  <text x="72" y="148" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="66" font-weight="700" fill="#F5F7FA" letter-spacing="-2">Deepak Kumar Singh</text>
+  <text x="74" y="190" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" fill="#C9D3E0" letter-spacing="0.2">Flutter &amp; Android engineer  <tspan fill="#5D7391">·</tspan>  Dart  <tspan fill="#5D7391">·</tspan>  Kotlin  <tspan fill="#5D7391">·</tspan>  iOS</text>
+
+  <rect x="72" y="218" width="620" height="1.5" fill="url(#rule)"/>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="72" y="262" font-size="34" font-weight="700" fill="#F5F7FA" letter-spacing="-1">6+</text>
+    <text x="72" y="284" font-size="13" fill="#8FA3BC" letter-spacing="0.6">years in production</text>
+    <text x="262" y="262" font-size="34" font-weight="700" fill="#F5F7FA" letter-spacing="-1">20+</text>
+    <text x="262" y="284" font-size="13" fill="#8FA3BC" letter-spacing="0.6">apps on the stores</text>
+    <text x="452" y="262" font-size="34" font-weight="700" fill="#F5F7FA" letter-spacing="-1">6</text>
+    <text x="452" y="284" font-size="13" fill="#8FA3BC" letter-spacing="0.6">payment gateways</text>
+  </g>
+
+  <!-- Back phone -->
+  <g class="float-b">
+    <g transform="translate(985 58)">
+      <rect width="158" height="262" rx="28" fill="#0B1E39" stroke="url(#edge)" stroke-width="1.5" opacity="0.92"/>
+      <rect x="8" y="8" width="142" height="246" rx="21" fill="url(#screen)"/>
+      <rect x="54" y="16" width="50" height="9" rx="4.5" fill="#06101F"/>
+      <rect x="22" y="44" width="70" height="8" rx="4" fill="#F5F7FA" fill-opacity="0.85"/>
+      <rect x="22" y="60" width="44" height="6" rx="3" fill="#8FA3BC" fill-opacity="0.6"/>
+      <rect x="22" y="84" width="54" height="58" rx="10" fill="#17365F"/>
+      <rect x="82" y="84" width="54" height="58" rx="10" fill="#17365F"/>
+      <rect x="32" y="116" width="8" height="18" rx="2" fill="#F26B1D"/>
+      <rect x="45" y="104" width="8" height="30" rx="2" fill="#8FA3BC" fill-opacity="0.7"/>
+      <rect x="58" y="110" width="8" height="24" rx="2" fill="#8FA3BC" fill-opacity="0.7"/>
+      <circle cx="109" cy="113" r="15" fill="none" stroke="#2B4468" stroke-width="6"/>
+      <path d="M109 98 A15 15 0 0 1 124 113" fill="none" stroke="#F26B1D" stroke-width="6" stroke-linecap="round"/>
+      <rect x="22" y="156" width="114" height="34" rx="9" fill="#17365F"/>
+      <rect x="22" y="198" width="114" height="34" rx="9" fill="#17365F"/>
+      <circle cx="40" cy="173" r="6" fill="#F26B1D" fill-opacity="0.9"/>
+      <circle cx="40" cy="215" r="6" fill="#8FA3BC" fill-opacity="0.6"/>
+      <rect x="54" y="169" width="58" height="6" rx="3" fill="#C9D3E0" fill-opacity="0.8"/>
+      <rect x="54" y="211" width="46" height="6" rx="3" fill="#C9D3E0" fill-opacity="0.8"/>
+    </g>
+  </g>
+
+  <!-- Front phone -->
+  <g class="float-a">
+    <g transform="translate(822 30)">
+      <rect x="-6" y="14" width="170" height="262" rx="34" fill="#000" opacity="0.28"/>
+      <rect width="158" height="276" rx="30" fill="#0A1A2F" stroke="url(#edge)" stroke-width="2"/>
+      <rect x="8" y="8" width="142" height="260" rx="23" fill="url(#screen)"/>
+      <rect x="54" y="17" width="50" height="10" rx="5" fill="#050D18"/>
+      <rect x="20" y="46" width="64" height="9" rx="4.5" fill="#F5F7FA"/>
+      <rect x="20" y="63" width="92" height="6" rx="3" fill="#8FA3BC" fill-opacity="0.65"/>
+      <rect x="20" y="84" width="118" height="78" rx="14" fill="url(#hero)"/>
+      <rect x="32" y="98" width="46" height="8" rx="4" fill="#0A1A2F" fill-opacity="0.75"/>
+      <rect x="32" y="114" width="70" height="6" rx="3" fill="#0A1A2F" fill-opacity="0.45"/>
+      <rect x="32" y="136" width="52" height="16" rx="8" fill="#0A1A2F"/>
+      <rect x="20" y="176" width="118" height="38" rx="11" fill="#17365F"/>
+      <rect x="20" y="222" width="118" height="30" rx="11" fill="#17365F" fill-opacity="0.7"/>
+      <circle cx="40" cy="195" r="9" fill="#F5F7FA" fill-opacity="0.15"/>
+      <path d="M36 195 l3 3 6 -7" fill="none" stroke="#F5F7FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="56" y="189" width="56" height="7" rx="3.5" fill="#F5F7FA" fill-opacity="0.9"/>
+      <rect x="56" y="201" width="38" height="5" rx="2.5" fill="#8FA3BC" fill-opacity="0.7"/>
+      <rect x="34" y="234" width="64" height="6" rx="3" fill="#C9D3E0" fill-opacity="0.6"/>
+    </g>
+  </g>
+</svg>
