@@ -1,6 +1,6 @@
 Hi, I’m Deepak Kumar Singh 👋  
 
-I’m a Senior Mobile Application Developer with over 4 years of hands-on experience in building Flutter and Android applications. Most of my work has been in real production environments, where apps are used daily by real users and businesses.
+I’m a Senior Mobile Application Developer with over 5 years of hands-on experience in building Flutter and Android applications. Most of my work has been in real production environments, where apps are used daily by real users and businesses.
 
 Over the years, I’ve worked on more than 20 mobile applications that are live on the Google Play Store and Apple App Store. These apps span multiple domains such as education, healthcare, HRMS, travel, hospitality, and enterprise solutions.
 
