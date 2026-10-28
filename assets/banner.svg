@@ -56,21 +56,19 @@
   <rect x="0.5" y="0.5" width="1199" height="319" rx="15.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.10"/>
 
   <!-- Text block -->
-  <rect x="72" y="62" width="10" height="10" rx="2" fill="#F26B1D"/>
-  <text x="94" y="72" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#F4A877" letter-spacing="4">TECH LEAD · MOBILITY</text>
+  <text x="72" y="122" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="66" font-weight="700" fill="#F5F7FA" letter-spacing="-2">Deepak Kumar Singh</text>
+  <text x="74" y="168" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="600" fill="#F4A877" letter-spacing="0.2">Tech Lead – Mobility<tspan fill="#5D7391" font-weight="400">  |  </tspan><tspan fill="#C9D3E0" font-weight="500">Flutter &amp; Android Engineer</tspan></text>
+  <text x="74" y="202" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="15" fill="#8FA3BC" letter-spacing="2">FLUTTER · DART · KOTLIN · ANDROID · IOS</text>
 
-  <text x="72" y="148" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="66" font-weight="700" fill="#F5F7FA" letter-spacing="-2">Deepak Kumar Singh</text>
-  <text x="74" y="190" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" fill="#C9D3E0" letter-spacing="0.2">Flutter &amp; Android engineer  <tspan fill="#5D7391">·</tspan>  Dart  <tspan fill="#5D7391">·</tspan>  Kotlin  <tspan fill="#5D7391">·</tspan>  iOS</text>
-
-  <rect x="72" y="218" width="620" height="1.5" fill="url(#rule)"/>
+  <rect x="72" y="226" width="620" height="1.5" fill="url(#rule)"/>
 
   <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-    <text x="72" y="262" font-size="34" font-weight="700" fill="#F5F7FA" letter-spacing="-1">6+</text>
-    <text x="72" y="284" font-size="13" fill="#8FA3BC" letter-spacing="0.6">years in production</text>
-    <text x="262" y="262" font-size="34" font-weight="700" fill="#F5F7FA" letter-spacing="-1">20+</text>
-    <text x="262" y="284" font-size="13" fill="#8FA3BC" letter-spacing="0.6">apps on the stores</text>
-    <text x="452" y="262" font-size="34" font-weight="700" fill="#F5F7FA" letter-spacing="-1">6</text>
-    <text x="452" y="284" font-size="13" fill="#8FA3BC" letter-spacing="0.6">payment gateways</text>
+    <text x="72" y="266" font-size="34" font-weight="700" fill="#F5F7FA" letter-spacing="-1">6+</text>
+    <text x="72" y="288" font-size="13" fill="#8FA3BC" letter-spacing="0.6">years in production</text>
+    <text x="262" y="266" font-size="34" font-weight="700" fill="#F5F7FA" letter-spacing="-1">20+</text>
+    <text x="262" y="288" font-size="13" fill="#8FA3BC" letter-spacing="0.6">apps on the stores</text>
+    <text x="452" y="266" font-size="34" font-weight="700" fill="#F5F7FA" letter-spacing="-1">6</text>
+    <text x="452" y="288" font-size="13" fill="#8FA3BC" letter-spacing="0.6">payment gateways</text>
   </g>
 
   <!-- Back phone -->
